@@ -29,4 +29,4 @@ int main(int c, char *v[])
     glutDisplayFunc(draw);
     glutMainLoop();
     return 0;
-}v
+}
